@@ -1,4 +1,7 @@
 iOS-ShootingStar
 ================
 
-ShootingStar for iOS
+ShootingStar for iOSです
+
+
+あとは任せた
