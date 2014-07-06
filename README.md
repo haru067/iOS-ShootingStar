@@ -1,4 +1,4 @@
 ShootingStar for iOS
 ================
 
-たすけてぬれ
+つらい
